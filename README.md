@@ -18,7 +18,7 @@
 
 3. Встановіть ваші облікові дані для бази даних в `models.py`:
     ```python
-    db = PostgresqlDatabase('test_task', user='your_username', password='your_password', host='localhost', port=5432)
+    db = PostgresqlDatabase('iot_management', user='your_username', password='your_password', host='localhost', port=5432)
     ```
 
 4. Створіть таблиці у базі даних:
