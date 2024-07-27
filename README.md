@@ -8,7 +8,7 @@
 
 1. Встановіть необхідні пакети:
     ```bash
-    pip install peewee aiohttp psycopg2-binary
+    pip install requirements.txt
     ```
 
 2. Налаштуйте PostgreSQL:
